@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="our-writers" transform="translate(-353.000000, -220.000000)" fill="#FFF400">
+            <g id="writers" transform="translate(179.000000, 141.000000)">
+                <g id="Main-card">
+                    <g id="writer" transform="translate(30.000000, 35.000000)">
+                        <g id="rating" transform="translate(89.584245, 43.000000)">
+                            <g id="stars-copy-2" transform="translate(54.354486, 1.000000)">
+                                <polygon id="Star" points="8.78746831 13.2668737 3.35651422 16 4.39373415 10.2111456 2.77555756e-16 6.11145618 6.07199126 5.26687371 8.78746831 0 11.5029454 5.26687371 17.5749366 6.11145618 13.1812025 10.2111456 14.2184224 16"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

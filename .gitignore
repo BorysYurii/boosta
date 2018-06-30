@@ -1,0 +1,7 @@
+.sass-cache/
+deco-framework/deco/bundles/custom-admin-parts/.sass-cache/
+decomments/node_modules/
+node_modules/
+.idea/
+.DS_Store
+assets/scss/.DS_Store
